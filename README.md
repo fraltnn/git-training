@@ -1,1 +1,2 @@
 # git-training
+some text
